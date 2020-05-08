@@ -1,0 +1,7 @@
+
+
+>open - git bash 
+
+>type - bundle exec jekyll serve
+
+>launch -http://localhost:4000
