@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\_includes",
-    "\\_layouts"
+    "\\_layouts",
+    "\\_posts",
+    "\\_sass"
   ],
-  "SelectedNode": "\\History.markdown",
+  "SelectedNode": "\\_includes\\social.html",
   "PreviewInSolutionExplorer": false
 }
