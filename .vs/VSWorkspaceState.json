@@ -1,11 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\script",
     "\\_includes",
     "\\_layouts",
     "\\_posts",
-    "\\_sass"
+    "\\_sass\\minima",
+    "\\_sass\\minima\\skins"
   ],
-  "SelectedNode": "\\_includes\\social.html",
+  "SelectedNode": "\\_layouts\\post.html",
   "PreviewInSolutionExplorer": false
 }

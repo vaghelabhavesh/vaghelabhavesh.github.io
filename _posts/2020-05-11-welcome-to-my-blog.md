@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to my blog"
-categories: junk
+categories: misc
 author:
 - Bhavesh Vaghela
 meta: "Springfield"
