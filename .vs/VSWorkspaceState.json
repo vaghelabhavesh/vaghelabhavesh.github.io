@@ -5,10 +5,8 @@
     "\\script",
     "\\_includes",
     "\\_layouts",
-    "\\_posts",
-    "\\_sass\\minima",
-    "\\_sass\\minima\\skins"
+    "\\_posts"
   ],
-  "SelectedNode": "\\_layouts\\post.html",
+  "SelectedNode": "\\cv.md",
   "PreviewInSolutionExplorer": false
 }
