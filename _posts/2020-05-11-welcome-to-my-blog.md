@@ -1,7 +1,8 @@
 ---
 layout: post
+comments: true
 title: "Welcome to my blog"
-categories: misc
+categories: blog
 author:
 - Bhavesh Vaghela
 meta: "Springfield"

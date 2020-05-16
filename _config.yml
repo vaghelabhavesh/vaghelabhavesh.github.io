@@ -8,6 +8,9 @@ description: #> # this means to ignore newlines until "show_excerpts:"
 
 footer: All rights reserved 
 
+disqus:
+    shortname: vaghelabhavesh
+
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
