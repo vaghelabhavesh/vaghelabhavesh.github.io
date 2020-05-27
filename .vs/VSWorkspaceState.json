@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\script",
+    "\\assets\\css",
     "\\_includes",
-    "\\_layouts",
-    "\\_posts"
+    "\\_layouts"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\_posts",
   "PreviewInSolutionExplorer": false
 }
