@@ -9,7 +9,7 @@ description: #> # this means to ignore newlines until "show_excerpts:"
 footer: All rights reserved 
 
 disqus:
-    shortname: vaghelabhavesh
+    shortname: vaghelabhavesh-github-io
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
