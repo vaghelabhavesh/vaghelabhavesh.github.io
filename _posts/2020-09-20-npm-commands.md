@@ -9,7 +9,7 @@ meta: "Springfield"
 ---
 
 ### What is npm?
-Recently I completed a learning path on [node js](https://docs.microsoft.com/en-in/learn/paths/build-javascript-applications-nodejs/) and found some basic and useful npm commands which were very helpful to me, so I thought of sharing.
+npm is a package manager for the JavaScript programming language. It is the default package manager for [Node.js](https://www.npmjs.com/). Recently I completed a learning path [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-in/learn/paths/build-javascript-applications-nodejs/) and found some basic and useful npm commands which were very helpful to me, so I thought of sharing.
 
 Here are some useful npm commands.
 
